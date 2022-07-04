@@ -11,6 +11,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .flexible-container {
     display: flex;
     margin-bottom: 150px;
@@ -68,4 +72,21 @@ h1 {
 
 .flasivle-container {
     display: flex;
+}
+
+.Experience-item {
+    width: 60%;
+    padding-left: 5%;
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    border-radius: 20px;
+}
+
+.experience-area {
+    margin-bottom: 100px;
+    background-image: url(./Image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: 10px;
 }
