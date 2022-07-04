@@ -82,6 +82,7 @@ h2 {
     margin-right: 5%;
     padding-left: 20px;
     border-radius: 20px;
+
 }
 
 .experience-area {
@@ -89,4 +90,12 @@ h2 {
     background-image: url(./Image/exp-bg.png);
     background-repeat: no-repeat;
     background-position: 10px;
+}
+
+.blue-color {
+    border-left: 10px solid blue;
+}
+
+.orange-color {
+    border-left: 10px solid rgb(245, 101, 48);
 }
