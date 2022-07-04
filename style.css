@@ -99,3 +99,7 @@ h2 {
 .orange-color {
     border-left: 10px solid rgb(245, 101, 48);
 }
+
+footer p {
+    text-align: center;
+}
